@@ -1,0 +1,8 @@
+Nessary Command List
+
+--------Run WebPack----------
+node_modules/.bin/webpack    
+
+
+---------Run Webpack Development mode------
+node_modules/.bin/webpack --mode=development

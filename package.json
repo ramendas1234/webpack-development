@@ -1,0 +1,24 @@
+{
+  "name": "webpack-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode=development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramendas1234/webpack-development.git"
+  },
+  "author": "Ramen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramendas1234/webpack-development/issues"
+  },
+  "homepage": "https://github.com/ramendas1234/webpack-development#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
