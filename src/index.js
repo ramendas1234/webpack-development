@@ -1,7 +1,6 @@
-console.log('Hello web developer');
-alert("Hello World");
+console.log('Hello developer');
 const handleClick = () => {
-    let test = ['ramen','suman'];
+    let test = ['Barun','suman'];
     test.map(val => {
         console.log(val);
     })
